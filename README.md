@@ -1,6 +1,4 @@
-# Hola, soy Zaid
-
-Frontend Developer · UI/UX Designer
+# Hola, soy Zaid | Frontend Developer · UI/UX Designer
 
 ## Tech Stack
 
